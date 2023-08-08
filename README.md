@@ -1,4 +1,4 @@
-# SIMPLE_BOOKS_LIBRARY
+
 # Books Library Application
 
 This is a simple console application that allows you to store and display information about books in a library.
